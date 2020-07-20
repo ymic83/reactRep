@@ -2,7 +2,7 @@
     "name": "class20.7app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://nameOfGitHub.github.io/nameOfReposetory",
+    "homepage": "http://ymic83.github.io/reactRep",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.5.0",
