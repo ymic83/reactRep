@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nameOfReposetory/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nameOfReposetory/static/js/main.8363f176.chunk.js",
+    "main.js.map": "/nameOfReposetory/static/js/main.8363f176.chunk.js.map",
+    "runtime-main.js": "/nameOfReposetory/static/js/runtime-main.66e8db94.js",
+    "runtime-main.js.map": "/nameOfReposetory/static/js/runtime-main.66e8db94.js.map",
+    "static/js/2.512af8b2.chunk.js": "/nameOfReposetory/static/js/2.512af8b2.chunk.js",
+    "static/js/2.512af8b2.chunk.js.map": "/nameOfReposetory/static/js/2.512af8b2.chunk.js.map",
+    "index.html": "/nameOfReposetory/index.html",
+    "precache-manifest.7dfaec2538d6a6d38899eb0c500a4ff7.js": "/nameOfReposetory/precache-manifest.7dfaec2538d6a6d38899eb0c500a4ff7.js",
+    "service-worker.js": "/nameOfReposetory/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nameOfReposetory/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.512af8b2.chunk.js.LICENSE.txt": "/nameOfReposetory/static/js/2.512af8b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e8db94.js",
+    "static/js/2.512af8b2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8363f176.chunk.js"
+  ]
+}
